@@ -18,7 +18,7 @@ This project is part of my business analyst learning journey, where I used Micro
 | `Dashboard.xlsx`     | Interactive Excel dashboard with slicers and visuals |
 | `Cleaned_Superstore_Data.xlsx` | Processed dataset with calculated columns |
 | `Insights_Recommendations.pdf` | Business-ready summary with insights and strategy |
-| `Project_Summary.pdf/`       | 1-page executive summary|
+| `Project_Summary.pdf`       | 1-page executive summary|
 
 ## 🧠 Key Insights
 - Texas, Ohio, and Pennsylvania showed **high sales but negative profit**.
